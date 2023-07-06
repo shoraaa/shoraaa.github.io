@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "truy_van_du_lich.cpp.cpp"
+title:  "truy_van_du_lich.cpp"
 date:   2023-02-10
 categories: [thay-thanh-hoang, tree, segment-tree, fenwick-tree, queries]
+tags: [tree]
 ---
 
 ```cpp
