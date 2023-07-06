@@ -2,7 +2,7 @@
 layout: post
 title:  "buoi_hoa_nhac_2.cpp"
 date:   2023-02-11
-categories: [bs, bl, 2-pts]
+categories: [thay-thanh-hoang, bs, bl, 2-pts]
 ---
 
 ```cpp
